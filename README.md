@@ -1,2 +1,2 @@
-# javascript_101
-Learning Javascript to build personal projects
+# Javascript 101
+John Owusu Duah learns Javascript
